@@ -1,7 +1,8 @@
 .settings/
 CMSIS/
-Debug/
 startup/
 *.ld
 .project
 .cproject
+*.pdsprj.MOHAMMED.hp.workspace
+*.pdsbak
